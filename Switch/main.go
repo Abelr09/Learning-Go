@@ -26,7 +26,7 @@ func main() {
 
 	fmt.Println(separador)
 
-	switch time.Now().Weekday() {
+	switch time.Now().Weekday() { //time.Now().Weekday() es una funcion que devuelve el dia de la semana
 	case time.Saturday, time.Sunday:
 		fmt.Println("Es fin de semana")
 	default:
@@ -35,7 +35,7 @@ func main() {
 
 	fmt.Println(separador)
 
-	tiempo := time.Now()
+	tiempo := time.Now() //time.Now() es una funcion que devuelve la hora actual
 	fmt.Println("La hora es: ", tiempo)
 	switch {
 	case tiempo.Hour() < 12:
