@@ -8,10 +8,6 @@ import (
 
 func main() {
 
-	/*
-		Los slices sirven para
-	*/
-
 	separador := strings.Repeat("-", 20)
 	fmt.Println(separador)
 
