@@ -1,3 +1,5 @@
+<img width="1012" height="675" alt="CertificadoGo" src="https://github.com/user-attachments/assets/82072e74-7851-4d5f-8501-a9f7c161210a" />
+
 # Learning Go
 
 Repositorio dedicado al aprendizaje práctico del lenguaje de programación **Go (Golang)**. Cada carpeta contiene ejemplos independientes y explicaciones sobre los conceptos fundamentales del lenguaje.
